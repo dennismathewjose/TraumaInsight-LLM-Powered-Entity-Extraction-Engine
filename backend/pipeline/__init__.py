@@ -1,0 +1,1 @@
+# TraumaInsight RAG Extraction Pipeline
