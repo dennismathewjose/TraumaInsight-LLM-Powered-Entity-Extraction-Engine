@@ -1,0 +1,13 @@
+# .gitignore
+__pycache__/
+*.pyc
+.env
+node_modules/
+.next/
+data/synthea_output/
+data/synthea_fhir/
+data/mimic/
+*.db
+.venv/
+venv/
+chromadb_data/
