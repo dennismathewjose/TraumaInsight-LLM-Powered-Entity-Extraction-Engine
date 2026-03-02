@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏥 TraumaInsight
+# TraumaInsight
 
 ### LLM-Powered Entity Extraction Engine for Trauma Registry Abstraction
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Key Features](#key-features)
@@ -61,14 +61,14 @@ The registrar then reviews only the flagged fields — typically 20–30% of the
 
 | Feature | Description |
 |---------|-------------|
-| 🤖 **RAG Extraction** | Retrieval-Augmented Generation using ChromaDB + Llama 3 for context-aware extraction |
-| 🔬 **Negation Detection** | medspaCy-based clinical NLP to catch "no signs of infection" vs. "infection" |
-| 📊 **Confidence Scoring** | 4-factor scoring (retrieval quality, assertion clarity, cross-document agreement, negation consistency) |
-| 📋 **9 Registry Fields** | Injuries, procedures, complications, severity, and discharge data |
-| 🖥️ **Review Interface** | Two-panel form with evidence panel showing AI reasoning & source citations |
-| ✅ **Confirm / Correct** | Registrars can approve or override AI extractions with one click |
-| 🏥 **MIMIC-IV Compatible** | Built for synthetic clinical data; works with MIMIC-IV format |
-| 🔒 **Fully Local** | Ollama LLM + local PostgreSQL + local ChromaDB — zero external API calls |
+|  **RAG Extraction** | Retrieval-Augmented Generation using ChromaDB + Llama 3 for context-aware extraction |
+|  **Negation Detection** | medspaCy-based clinical NLP to catch "no signs of infection" vs. "infection" |
+|  **Confidence Scoring** | 4-factor scoring (retrieval quality, assertion clarity, cross-document agreement, negation consistency) |
+|  **9 Registry Fields** | Injuries, procedures, complications, severity, and discharge data |
+|  **Review Interface** | Two-panel form with evidence panel showing AI reasoning & source citations |
+|  **Confirm / Correct** | Registrars can approve or override AI extractions with one click |
+|  **MIMIC-IV Compatible** | Built for synthetic clinical data; works with MIMIC-IV format |
+|  **Fully Local** | Ollama LLM + local PostgreSQL + local ChromaDB — zero external API calls |
 
 ---
 
@@ -518,7 +518,7 @@ Full interactive docs at **http://localhost:8000/docs** (Swagger UI).
 
 <div align="center">
 
-**Built with ❤️ for trauma registrars**
+** For trauma registrars**
 
 *Reducing chart abstraction time so clinicians can focus on patient care.*
 
